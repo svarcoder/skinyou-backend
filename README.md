@@ -24,6 +24,7 @@ The Skin And You Backend is a RESTful API server designed to manage administrati
 - **Express**: Web framework for Node.js.
 - **MongoDB**: NoSQL database.
 - **Mongoose**: MongoDB object modeling tool.
+- **Typescript**: Typescript for better types.
 - **dotenv**: For managing environment variables.
 
 ## Requirements
